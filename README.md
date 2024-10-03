@@ -3,16 +3,15 @@
 
 - 🔭 I’m currently working at [LMX](https://www.lmx.de/)
 
-- 🌱 I’m currently learning **Advanced algorithms & data structures**
+- 🌱 Currently learning **Advanced algorithms & data structures**
 
 - 💬 Ask me about **Next.js, Typescript, System design**
 
-- 📫 How to reach me **abdelghani.adel@outlook.com**
+- 📫 You can reach me at **abdelghani.adel@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abdelghani-adel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelghani-adel" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abdelgani_adel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abdelgani_adel" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abdelganiadel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdelganiadel" height="30" width="40" /></a>
 </p>
 
